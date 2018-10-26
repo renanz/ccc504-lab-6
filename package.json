@@ -1,0 +1,23 @@
+{
+  "name": "ccc504-lab-6",
+  "version": "1.0.0",
+  "description": "Laboratorio 6 para la clase de Tecnologias Emergentes. RESTful API con HAPIJs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanz/ccc504-lab-6.git"
+  },
+  "author": "Renan Zelaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renanz/ccc504-lab-6/issues"
+  },
+  "homepage": "https://github.com/renanz/ccc504-lab-6#readme",
+  "dependencies": {
+    "hapi": "^16.6.2",
+    "mongoose": "^5.3.6"
+  }
+}
