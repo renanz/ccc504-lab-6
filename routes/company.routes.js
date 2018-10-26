@@ -9,6 +9,7 @@ module.exports = [
   {
     path: "/api/companies",
     method: "GET",
+    config: { auth: false },
     handler: CompanyController.find
   },
   {
