@@ -4,7 +4,7 @@ const server = new hapi.Server();
 const mongoose = require("mongoose");
 const companyRoutes = require("./routes/company.routes");
 
-const mongoDbUri = "mongodb://localhost:27017/hapi_db";
+const mongoDbUri = "mongodb://admin:admin1234@ds143143.mlab.com:43143/estudiantes";
 //connect with mongoDB
 mongoose.connect(
   mongoDbUri,
