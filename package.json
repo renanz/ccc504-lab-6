@@ -18,6 +18,7 @@
   "homepage": "https://github.com/renanz/ccc504-lab-6#readme",
   "dependencies": {
     "hapi": "^16.6.2",
+    "hapi-auth-jwt2": "^8.1.0",
     "mongoose": "^5.3.6"
   }
 }
